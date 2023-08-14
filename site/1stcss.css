@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    background-color: aquamarine;
+    box-sizing: border-box;
+}
+h1 {
+    color: red;
+    font-size: 46px;
+}
+p {
+    color: blueviolet;
+    font-size: 30px;
+}
+a {
+    color: crimson;
+    font-size: 25px;
+}
+img {
+    width: 600px;
+    height: 650px;
+}
